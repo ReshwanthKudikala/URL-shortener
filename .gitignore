@@ -1,0 +1,18 @@
+# Node dependencies
+url-shortener-backend/node_modules/
+url-shortener-frontend/node_modules/
+
+# Environment variables
+url-shortener-backend/.env
+url-shortener-frontend/.env
+
+# Build output
+url-shortener-frontend/dist/
+url-shortener-backend/dist/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
